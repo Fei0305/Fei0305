@@ -1,0 +1,6 @@
+- 👋 嘿嘿，这里是你费哥的Git仓库
+- 👀 电气专业大学生纯小白一枚
+- 🌱 每天以Ctrl c,Ctrl v为乐趣
+- 🔥 什么都会一点，就是什么都不会
+- 🌟 我的博客：[feiblog.top](http://feiblog.top)
+- 🌸 还有我和我的宝：[linkeai.xyz](linkeai.xyz)
